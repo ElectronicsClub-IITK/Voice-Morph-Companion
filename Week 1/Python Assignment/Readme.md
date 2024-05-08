@@ -8,4 +8,4 @@
 - Chained Comparison Operators
 
 * Google any Queries and You'll Get Your Answers 
-* It is Recommended that You Speed Run these 
+* It is Recommended that You Speed Run these
